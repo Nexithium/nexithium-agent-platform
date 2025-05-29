@@ -23,6 +23,8 @@ Welcome to the official documentation for **Nexithium Agent Platform**, your goâ
 9. [Memory Management](#memory-management)
 10. [Contributing](#contributing)
 11. [License](#license)
+12. [Whitepaper](whitepaper.md)
+
 
 ---
 
