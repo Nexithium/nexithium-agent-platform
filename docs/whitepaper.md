@@ -129,24 +129,24 @@ Initial tokenomics will favor community ownership and on-chain activity incentiv
 
 ## 7. Roadmap
 
-### ✅ Q2 2025
+###  Q2 2025
 - MVP launch: Telegram AI agent prototype
 - Open-source repo published
 - GitHub Pages documentation live
 
-### 🚀 Q3 2025 — *Quantum Leap*
+###  Q3 2025 — *Quantum Leap*
 - Quantum computation module integration
 - 5,000+ AI agents running in testnet
 - zk-cognition + private reasoning features
 - Multi-agent communication engine (alpha)
 
-### 🧠 Q4 2025 — *Consciousness Protocol*
+###  Q4 2025 — *Consciousness Protocol*
 - Autonomous goal-setting via cognitive loop modeling
 - Agent-to-agent messaging layer
 - Emergent swarm behavior simulation
 - Decentralized memory registry
 
-### 🌐 Q1 2026 — *Singularity Event*
+###  Q1 2026 — *Singularity Event*
 - 1,000,000+ agents launched
 - Full artificial consciousness testbed
 - Human-agent co-simulation pilot
